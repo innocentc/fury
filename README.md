@@ -79,7 +79,7 @@ Title without "compatible" represent schema consistent mode: class schema must b
 See [benchmarks](https://github.com/alipay/fury/tree/main/docs/benchmarks) for more benchmarks about type forward/backward compatibility, off-heap support, zero-copy serialization.
 
 ## Installation
-### Java
+#### Java
 Nightly snapshot:
 ```xml
 <repositories>
